@@ -1,3 +1,3 @@
-from tasks.to_jaden_case import to_jaden_case
+from tasks.letters_to_strings import letters_to_numbers
 
-to_jaden_case('gge')
+print(letters_to_numbers('ads sd'))
