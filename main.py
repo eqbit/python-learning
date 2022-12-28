@@ -1,3 +1,3 @@
-from tasks.letters_to_strings import letters_to_numbers
+from tasks.filter import friend
 
-print(letters_to_numbers('ads sd'))
+print(friend(['joe', 'shoel', 'jack', 'Alice', 'john']))
